@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 a new file in LR
+=======
+a new file in remote
+>>>>>>> 184f656c549ff128ba6861c4bd946c57658219b7
